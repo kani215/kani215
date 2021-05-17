@@ -1,7 +1,6 @@
 - 👋 Hi, I’m kani215!
 - 👀 I’m interested in solving and coding some algorithm problem and making program. 
 - 🌱 I’m currently learning data mining issues with python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me plz mail to me my mail address is kani215@naver.com
 
 <!---
