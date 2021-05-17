@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kani215![image](https://user-images.githubusercontent.com/41600359/118445020-dda3b380-b728-11eb-8e04-00f34e97ab13.png)
+- 👋 Hi, I’m kani215!
 - 👀 I’m interested in solving and coding some algorithm problem and making program. 
 - 🌱 I’m currently learning data mining issues with python.
 - 💞️ I’m looking to collaborate on ...
